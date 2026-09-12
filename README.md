@@ -24,4 +24,4 @@
 
 1. 克隆或下载本项目到本地：
    ```bash
-   git clone https://github.com/你的GitHub用户名/your-repo-name.git
+   git clone https://github.com/xiguacaizimi/passport.git
